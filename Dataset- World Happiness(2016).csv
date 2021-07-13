@@ -1,0 +1,158 @@
+﻿Country,Happiness Score,Region,Year,Dystopia Residual,Economy (GDP per Capita),F4,Family,Freedom,Generosity,Happiness Rank,Health (Life Expectancy),Trust (Government Corruption)
+Denmark,7.5,Western Europe,1/1/2016,2.73939,1.4,,1.2,0.57941,0.4,1,0.8,0.4
+Switzerland,7.5,Western Europe,1/1/2016,2.69463,1.5,,1.1,0.58557,0.3,2,0.9,0.4
+Iceland,7.5,Western Europe,1/1/2016,2.83137,1.4,,1.2,0.56624,0.5,3,0.9,0.1
+Norway,7.5,Western Europe,1/1/2016,2.66465,1.6,,1.1,0.59609,0.4,4,0.8,0.4
+Finland,7.4,Western Europe,1/1/2016,2.82596,1.4,,1.1,0.57104,0.3,5,0.8,0.4
+Canada,7.4,North America,1/1/2016,2.70485,1.4,,1.1,0.5737,0.4,6,0.8,0.3
+Netherlands,7.3,Western Europe,1/1/2016,2.70749,1.5,,1.0,0.55211,0.5,7,0.8,0.3
+New Zealand,7.3,Australia and New Zealand,1/1/2016,2.47553,1.4,,1.2,0.58147,0.5,8,0.8,0.4
+Australia,7.3,Australia and New Zealand,1/1/2016,2.5465,1.4,,1.1,0.56837,0.5,9,0.9,0.3
+Sweden,7.3,Western Europe,1/1/2016,2.54734,1.5,,1.1,0.58218,0.4,10,0.8,0.4
+Israel,7.3,Middle East and Northern Africa,1/1/2016,3.31029,1.3,,1.0,0.36432,0.3,11,0.8,0.1
+Austria,7.1,Western Europe,1/1/2016,2.69343,1.5,,1.1,0.54355,0.3,12,0.8,0.2
+United States,7.1,North America,1/1/2016,2.72782,1.5,,1.0,0.48163,0.4,13,0.8,0.1
+Costa Rica,7.1,Latin America and Caribbean,1/1/2016,3.35168,1.1,,1.0,0.55225,0.2,14,0.8,0.1
+Puerto Rico,7.0,Latin America and Caribbean,1/1/2016,3.0076,1.4,,1.1,0.46823,0.2,15,0.8,0.1
+Germany,7.0,Western Europe,1/1/2016,2.50931,1.4,,1.1,0.53466,0.3,16,0.8,0.3
+Brazil,7.0,Latin America and Caribbean,1/1/2016,3.50733,1.1,,1.0,0.40425,0.2,17,0.6,0.1
+Belgium,6.9,Western Europe,1/1/2016,2.61355,1.4,,1.1,0.51354,0.2,18,0.8,0.3
+Ireland,6.9,Western Europe,1/1/2016,2.15988,1.5,,1.2,0.54008,0.4,19,0.8,0.3
+Luxembourg,6.9,Western Europe,1/1/2016,2.11055,1.7,,1.0,0.5487,0.3,20,0.8,0.4
+Mexico,6.8,Latin America and Caribbean,1/1/2016,3.55906,1.1,,0.7,0.37709,0.1,21,0.7,0.2
+Singapore,6.7,Southeastern Asia,1/1/2016,1.99375,1.6,,0.9,0.4877,0.3,22,0.9,0.5
+United Kingdom,6.7,Western Europe,1/1/2016,2.14999,1.4,,1.1,0.50036,0.5,23,0.8,0.3
+Chile,6.7,Latin America and Caribbean,1/1/2016,2.95505,1.2,,0.9,0.37789,0.3,24,0.8,0.1
+Panama,6.7,Latin America and Caribbean,1/1/2016,3.00559,1.2,,1.0,0.48927,0.2,25,0.7,0.1
+Argentina,6.7,Latin America and Caribbean,1/1/2016,3.12985,1.2,,1.1,0.42284,0.1,26,0.7,0.1
+Czech Republic,6.6,Central and Eastern Europe,1/1/2016,2.96211,1.3,,1.0,0.41418,0.1,27,0.8,0.0
+United Arab Emirates,6.6,Middle East and Northern Africa,1/1/2016,2.21507,1.6,,0.9,0.56215,0.3,28,0.7,0.4
+Uruguay,6.5,Latin America and Caribbean,1/1/2016,2.67139,1.2,,1.0,0.54388,0.2,29,0.7,0.2
+Malta,6.5,Western Europe,1/1/2016,1.99032,1.3,,1.1,0.54994,0.6,30,0.8,0.2
+Colombia,6.5,Latin America and Caribbean,1/1/2016,3.17471,1.0,,1.0,0.44735,0.2,31,0.6,0.1
+France,6.5,Western Europe,1/1/2016,2.4744,1.4,,1.0,0.46562,0.1,32,0.8,0.2
+Thailand,6.5,Southeastern Asia,1/1/2016,2.5796,1.1,,1.0,0.49553,0.6,33,0.6,0.0
+Saudi Arabia,6.4,Middle East and Northern Africa,1/1/2016,2.61482,1.5,,0.8,0.37904,0.2,34,0.6,0.3
+Taiwan,6.4,Eastern Asia,1/1/2016,2.61523,1.4,,0.9,0.32377,0.3,34,0.8,0.1
+Qatar,6.4,Middle East and Northern Africa,1/1/2016,1.58224,1.8,,0.9,0.56679,0.3,36,0.7,0.5
+Spain,6.4,Western Europe,1/1/2016,2.39663,1.3,,1.1,0.37545,0.2,37,0.9,0.1
+Algeria,6.4,Middle East and Northern Africa,1/1/2016,3.40904,1.1,,0.8,0.21006,0.1,38,0.6,0.2
+Guatemala,6.3,Latin America and Caribbean,1/1/2016,3.19863,0.8,,0.9,0.50379,0.3,39,0.5,0.1
+Suriname,6.3,Latin America and Caribbean,1/1/2016,3.06852,1.1,,0.8,0.52234,0.2,40,0.5,0.1
+Kuwait,6.2,Middle East and Northern Africa,1/1/2016,2.28085,1.6,,0.9,0.43166,0.2,41,0.6,0.2
+Bahrain,6.2,Middle East and Northern Africa,1/1/2016,2.27405,1.4,,0.9,0.47375,0.2,42,0.7,0.3
+Trinidad and Tobago,6.2,Latin America and Caribbean,1/1/2016,2.51394,1.3,,1.0,0.48453,0.3,43,0.5,0.0
+Venezuela,6.1,Latin America and Caribbean,1/1/2016,2.97468,1.1,,1.0,0.19847,0.0,44,0.6,0.1
+Slovakia,6.1,Central and Eastern Europe,1/1/2016,2.61065,1.3,,1.1,0.23391,0.1,45,0.7,0.0
+El Salvador,6.1,Latin America and Caribbean,1/1/2016,3.22134,0.9,,0.8,0.37269,0.1,46,0.6,0.1
+Malaysia,6.0,Southeastern Asia,1/1/2016,2.35384,1.3,,0.9,0.39031,0.4,47,0.6,0.1
+Nicaragua,6.0,Latin America and Caribbean,1/1/2016,2.82428,0.7,,0.9,0.46582,0.3,48,0.7,0.2
+Uzbekistan,6.0,Central and Eastern Europe,1/1/2016,2.34638,0.7,,1.2,0.60848,0.3,49,0.5,0.3
+Italy,6.0,Western Europe,1/1/2016,2.34918,1.4,,1.0,0.18827,0.2,50,0.9,0.0
+Ecuador,6.0,Latin America and Caribbean,1/1/2016,2.77366,1.0,,0.9,0.4027,0.1,51,0.7,0.2
+Belize,6.0,Latin America and Caribbean,1/1/2016,3.08039,0.9,,0.7,0.51231,0.2,52,0.5,0.1
+Japan,5.9,Eastern Asia,1/1/2016,1.80584,1.4,,1.1,0.46761,0.1,53,0.9,0.2
+Kazakhstan,5.9,Central and Eastern Europe,1/1/2016,2.49325,1.2,,1.0,0.4052,0.2,54,0.6,0.1
+Moldova,5.9,Central and Eastern Europe,1/1/2016,3.38007,0.7,,0.8,0.25202,0.2,55,0.5,0.0
+Russia,5.9,Central and Eastern Europe,1/1/2016,2.59115,1.2,,1.1,0.32682,0.0,56,0.6,0.0
+Poland,5.8,Central and Eastern Europe,1/1/2016,2.20035,1.2,,1.0,0.4519,0.1,57,0.7,0.1
+South Korea,5.8,Eastern Asia,1/1/2016,2.35015,1.4,,0.7,0.25168,0.2,57,0.9,0.1
+Bolivia,5.8,Latin America and Caribbean,1/1/2016,2.91635,0.8,,0.8,0.50961,0.2,59,0.5,0.1
+Lithuania,5.8,Central and Eastern Europe,1/1/2016,2.60525,1.3,,1.1,0.18929,0.0,60,0.6,0.0
+Belarus,5.8,Central and Eastern Europe,1/1/2016,2.38582,1.1,,1.0,0.29091,0.1,61,0.6,0.2
+North Cyprus,5.8,Western Europe,1/1/2016,1.93447,1.3,,0.8,0.43596,0.3,62,0.8,0.2
+Slovenia,5.8,Central and Eastern Europe,1/1/2016,1.79522,1.3,,1.1,0.53164,0.3,63,0.8,0.0
+Peru,5.7,Latin America and Caribbean,1/1/2016,2.73117,1.0,,0.8,0.37502,0.1,64,0.6,0.1
+Turkmenistan,5.7,Central and Eastern Europe,1/1/2016,2.21489,1.1,,1.0,0.37408,0.2,65,0.4,0.3
+Mauritius,5.6,Sub-Saharan Africa,1/1/2016,2.20223,1.1,,0.8,0.46145,0.4,66,0.7,0.1
+Libya,5.6,Middle East and Northern Africa,1/1/2016,2.39374,1.1,,1.0,0.40672,0.2,67,0.5,0.1
+Latvia,5.6,Central and Eastern Europe,1/1/2016,2.20859,1.2,,1.0,0.27996,0.2,68,0.6,0.1
+Cyprus,5.5,Western Europe,1/1/2016,2.04497,1.3,,0.7,0.29507,0.3,69,0.8,0.1
+Paraguay,5.5,Latin America and Caribbean,1/1/2016,2.16091,0.9,,1.1,0.46235,0.3,70,0.6,0.1
+Romania,5.5,Central and Eastern Europe,1/1/2016,2.45184,1.2,,0.7,0.36712,0.1,71,0.7,0.0
+Estonia,5.5,Central and Eastern Europe,1/1/2016,1.81985,1.3,,1.1,0.41511,0.1,72,0.7,0.2
+Jamaica,5.5,Latin America and Caribbean,1/1/2016,2.35682,0.9,,1.0,0.43597,0.2,73,0.6,0.0
+Croatia,5.5,Central and Eastern Europe,1/1/2016,2.52462,1.2,,0.6,0.23907,0.2,74,0.7,0.0
+Hong Kong,5.5,Eastern Asia,1/1/2016,0.92614,1.5,,0.9,0.48079,0.4,75,1.0,0.3
+Somalia,5.4,Sub-Saharan Africa,1/1/2016,3.83772,0.0,,0.3,0.56778,0.3,76,0.1,0.3
+Kosovo,5.4,Central and Eastern Europe,1/1/2016,2.80998,0.9,,0.7,0.14396,0.3,77,0.5,0.1
+Turkey,5.4,Middle East and Northern Africa,1/1/2016,2.29074,1.2,,0.9,0.23889,0.0,78,0.6,0.1
+Indonesia,5.3,Southeastern Asia,1/1/2016,2.03171,1.0,,0.9,0.39237,0.6,79,0.5,0.0
+Jordan,5.3,Middle East and Northern Africa,1/1/2016,2.20142,1.0,,0.9,0.36023,0.1,80,0.6,0.1
+Azerbaijan,5.3,Central and Eastern Europe,1/1/2016,2.2735,1.1,,0.8,0.35327,0.1,81,0.5,0.2
+Philippines,5.3,Southeastern Asia,1/1/2016,2.23484,0.8,,0.9,0.54854,0.2,82,0.5,0.1
+China,5.2,Eastern Asia,1/1/2016,2.17087,1.0,,0.8,0.44012,0.0,83,0.7,0.0
+Bhutan,5.2,Southern Asia,1/1/2016,1.82916,0.9,,0.9,0.46074,0.5,84,0.5,0.2
+Kyrgyzstan,5.2,Central and Eastern Europe,1/1/2016,2.28136,0.6,,1.0,0.40212,0.4,85,0.6,0.0
+Serbia,5.2,Central and Eastern Europe,1/1/2016,2.27539,1.0,,0.8,0.15718,0.2,86,0.6,0.0
+Bosnia and Herzegovina,5.2,Central and Eastern Europe,1/1/2016,2.48406,0.9,,0.6,0.09511,0.3,87,0.7,0.0
+Montenegro,5.2,Central and Eastern Europe,1/1/2016,2.25531,1.1,,0.7,0.15111,0.2,88,0.6,0.1
+Dominican Republic,5.2,Latin America and Caribbean,1/1/2016,1.69626,1.0,,1.0,0.52259,0.2,89,0.6,0.1
+Morocco,5.2,Middle East and Northern Africa,1/1/2016,2.94891,0.8,,0.4,0.25646,0.0,90,0.6,0.1
+Hungary,5.1,Central and Eastern Europe,1/1/2016,1.95473,1.2,,0.9,0.1977,0.1,91,0.7,0.0
+Pakistan,5.1,Southern Asia,1/1/2016,3.18286,0.7,,0.3,0.14622,0.3,92,0.4,0.1
+Lebanon,5.1,Middle East and Northern Africa,1/1/2016,2.07339,1.1,,0.6,0.26228,0.2,93,0.8,0.0
+Portugal,5.1,Western Europe,1/1/2016,1.53015,1.3,,0.9,0.44727,0.1,94,0.8,0.0
+Macedonia,5.1,Central and Eastern Europe,1/1/2016,2.08947,1.0,,0.8,0.27668,0.2,95,0.6,0.1
+Vietnam,5.1,Southeastern Asia,1/1/2016,1.9418,0.7,,0.8,0.55954,0.3,96,0.7,0.1
+Somaliland Region,5.1,Sub-Saharan Africa,1/1/2016,2.43801,0.3,,0.8,0.3913,0.5,97,0.3,0.4
+Tunisia,5.0,Middle East and Northern Africa,1/1/2016,2.68413,1.0,,0.4,0.23553,0.0,98,0.6,0.1
+Greece,5.0,Western Europe,1/1/2016,2.12944,1.2,,0.8,0.05822,0.0,99,0.8,0.0
+Tajikistan,5.0,Central and Eastern Europe,1/1/2016,2.39106,0.5,,0.8,0.43408,0.3,100,0.5,0.1
+Mongolia,4.9,Eastern Asia,1/1/2016,1.53586,1.0,,1.1,0.35972,0.3,101,0.6,0.0
+Laos,4.9,Southeastern Asia,1/1/2016,2.08637,0.7,,0.5,0.52168,0.4,102,0.4,0.2
+Nigeria,4.9,Sub-Saharan Africa,1/1/2016,2.88586,0.8,,0.6,0.27854,0.2,103,0.1,0.0
+Honduras,4.9,Latin America and Caribbean,1/1/2016,2.29551,0.7,,0.8,0.26755,0.2,104,0.6,0.1
+Iran,4.8,Middle East and Northern Africa,1/1/2016,1.99817,1.1,,0.4,0.22544,0.4,105,0.6,0.1
+Zambia,4.8,Sub-Saharan Africa,1/1/2016,2.58991,0.6,,0.6,0.42662,0.2,106,0.2,0.1
+Nepal,4.8,Southern Asia,1/1/2016,2.32694,0.4,,0.7,0.37012,0.4,107,0.5,0.1
+Palestinian Territories,4.8,Middle East and Northern Africa,1/1/2016,2.40364,0.7,,0.7,0.17744,0.1,108,0.6,0.1
+Albania,4.7,Central and Eastern Europe,1/1/2016,1.92816,1.0,,0.5,0.31866,0.2,109,0.7,0.1
+Bangladesh,4.6,Southern Asia,1/1/2016,2.60904,0.5,,0.2,0.39778,0.2,110,0.5,0.1
+Sierra Leone,4.6,Sub-Saharan Africa,1/1/2016,3.01402,0.4,,0.6,0.30685,0.2,111,0.0,0.1
+Iraq,4.6,Middle East and Northern Africa,1/1/2016,1.81657,1.1,,0.6,0.24856,0.2,112,0.5,0.1
+Namibia,4.6,Sub-Saharan Africa,1/1/2016,1.92198,0.9,,0.7,0.48614,0.1,113,0.3,0.1
+Cameroon,4.5,Sub-Saharan Africa,1/1/2016,2.5198,0.5,,0.6,0.42736,0.2,114,0.1,0.1
+Ethiopia,4.5,Sub-Saharan Africa,1/1/2016,2.65614,0.3,,0.4,0.36703,0.3,115,0.3,0.2
+South Africa,4.5,Sub-Saharan Africa,1/1/2016,1.64227,1.0,,1.0,0.42483,0.1,116,0.2,0.1
+Sri Lanka,4.4,Southern Asia,1/1/2016,0.91681,1.0,,0.8,0.50817,0.5,117,0.6,0.1
+India,4.4,Southern Asia,1/1/2016,2.18032,0.7,,0.3,0.40285,0.3,118,0.5,0.1
+Myanmar,4.4,Southeastern Asia,1/1/2016,1.50655,0.3,,0.7,0.42692,0.8,119,0.4,0.2
+Egypt,4.4,Middle East and Northern Africa,1/1/2016,1.96895,1.0,,0.5,0.18847,0.1,120,0.5,0.1
+Armenia,4.4,Central and Eastern Europe,1/1/2016,1.97864,0.9,,0.6,0.14037,0.1,121,0.6,0.0
+Kenya,4.4,Sub-Saharan Africa,1/1/2016,1.88326,0.5,,0.8,0.40576,0.4,122,0.3,0.1
+Ukraine,4.3,Central and Eastern Europe,1/1/2016,1.50066,0.9,,1.0,0.12859,0.2,123,0.6,0.0
+Ghana,4.3,Sub-Saharan Africa,1/1/2016,2.2002,0.6,,0.5,0.40973,0.2,124,0.3,0.0
+Congo (Kinshasa),4.3,Sub-Saharan Africa,1/1/2016,2.74924,0.1,,0.8,0.15602,0.3,125,0.2,0.1
+Georgia,4.3,Central and Eastern Europe,1/1/2016,1.87031,0.8,,0.2,0.32461,0.1,126,0.6,0.3
+Congo (Brazzaville),4.2,Sub-Saharan Africa,1/1/2016,2.10681,0.8,,0.5,0.37938,0.1,127,0.3,0.1
+Senegal,4.2,Sub-Saharan Africa,1/1/2016,1.97861,0.4,,0.8,0.31056,0.2,128,0.4,0.1
+Bulgaria,4.2,Central and Eastern Europe,1/1/2016,1.15377,1.1,,0.9,0.21219,0.1,129,0.7,0.0
+Mauritania,4.2,Sub-Saharan Africa,1/1/2016,1.9263,0.6,,0.8,0.1268,0.2,130,0.3,0.2
+Zimbabwe,4.2,Sub-Saharan Africa,1/1/2016,2.4427,0.4,,0.7,0.25429,0.2,131,0.2,0.1
+Malawi,4.2,Sub-Saharan Africa,1/1/2016,2.82859,0.1,,0.1,0.4143,0.3,132,0.3,0.1
+Sudan,4.1,Sub-Saharan Africa,1/1/2016,2.10995,0.6,,0.8,0,0.2,133,0.3,0.1
+Gabon,4.1,Sub-Saharan Africa,1/1/2016,1.45332,1.2,,0.7,0.28098,0.1,134,0.3,0.1
+Mali,4.1,Sub-Saharan Africa,1/1/2016,2.11087,0.3,,0.9,0.27544,0.2,135,0.2,0.1
+Haiti,4.0,Latin America and Caribbean,1/1/2016,2.37116,0.3,,0.3,0.12072,0.5,136,0.3,0.1
+Botswana,4.0,Sub-Saharan Africa,1/1/2016,0.96741,1.1,,0.9,0.44089,0.1,137,0.3,0.1
+Comoros,4.0,Sub-Saharan Africa,1/1/2016,2.25632,0.3,,0.6,0.15412,0.2,138,0.3,0.2
+Ivory Coast,3.9,Sub-Saharan Africa,1/1/2016,1.97478,0.6,,0.6,0.40663,0.2,139,0.0,0.2
+Cambodia,3.9,Southeastern Asia,1/1/2016,1.31573,0.6,,0.5,0.58852,0.4,140,0.4,0.1
+Angola,3.9,Sub-Saharan Africa,1/1/2016,2.09459,0.8,,0.7,0.00589,0.1,141,0.0,0.1
+Niger,3.9,Sub-Saharan Africa,1/1/2016,2.09469,0.1,,0.6,0.38041,0.2,142,0.3,0.2
+South Sudan,3.8,Sub-Saharan Africa,1/1/2016,2.50929,0.4,,0.2,0.19662,0.3,143,0.2,0.1
+Chad,3.8,Sub-Saharan Africa,1/1/2016,2.30637,0.4,,0.6,0.12807,0.2,144,0.0,0.0
+Burkina Faso,3.7,Sub-Saharan Africa,1/1/2016,1.87319,0.3,,0.6,0.3337,0.2,145,0.2,0.1
+Uganda,3.7,Sub-Saharan Africa,1/1/2016,1.51416,0.3,,0.9,0.43653,0.3,145,0.2,0.1
+Yemen,3.7,Middle East and Northern Africa,1/1/2016,1.97295,0.6,,0.5,0.2287,0.1,147,0.3,0.1
+Madagascar,3.7,Sub-Saharan Africa,1/1/2016,2.15075,0.3,,0.5,0.13684,0.2,148,0.4,0.1
+Tanzania,3.7,Sub-Saharan Africa,1/1/2016,1.37769,0.5,,0.8,0.3176,0.3,149,0.4,0.1
+Liberia,3.6,Sub-Saharan Africa,1/1/2016,2.23284,0.1,,0.5,0.25748,0.2,150,0.2,0.0
+Guinea,3.6,Sub-Saharan Africa,1/1/2016,2.15604,0.2,,0.3,0.30953,0.3,151,0.2,0.1
+Rwanda,3.5,Sub-Saharan Africa,1/1/2016,0.96819,0.3,,0.6,0.5432,0.2,152,0.3,0.5
+Benin,3.5,Sub-Saharan Africa,1/1/2016,2.10812,0.4,,0.1,0.39747,0.2,153,0.2,0.1
+Afghanistan,3.4,Southern Asia,1/1/2016,2.14558,0.4,,0.1,0.1643,0.3,154,0.2,0.1
+Togo,3.3,Sub-Saharan Africa,1/1/2016,2.1354,0.3,,0.0,0.34678,0.2,155,0.2,0.1
+Syria,3.1,Middle East and Northern Africa,1/1/2016,0.81789,0.7,,0.1,0.06912,0.5,156,0.6,0.2
+Burundi,2.9,Sub-Saharan Africa,1/1/2016,2.10404,0.1,,0.2,0.0432,0.2,157,0.2,0.1
